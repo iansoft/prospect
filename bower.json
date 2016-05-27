@@ -1,0 +1,11 @@
+{
+  "name": "ticket_business",
+  "version": "1.0.0",
+  "authors": [
+    "ansoft"
+  ],
+  "description": "A rich harvest is in prospect.",
+  "dependencies": {
+    "react": "^15.1.0"
+  }
+}
